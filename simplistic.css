@@ -3,6 +3,10 @@
     --accent2: #9eeb56;
 }
 
+/* FurrFurr */
+
+
+
 /* stuff */
 
 #aMerger,
@@ -177,20 +181,15 @@
 /*leaderName, .tScoreF{
     color: var(--accent) 
 }
-
 [style*="color:#eb5656"] {
     color: var(--accent) !important
 }
-
 [style*="color:#9eeb56"] {
     color: var(--accent2) !important
 }
-
-
 [style*="color:#d0d0d0"] {
      color: var(--accent2)
 } 
-
 .leaderNameF, .tScoreF.you {
     color: var(--accent2) !important 
 }
@@ -552,4 +551,14 @@ input:checked+.sliderSml::before {
 
 #spectButton {
    visibility: hidden 
+}
+
+/* yes */
+
+#mapInfo::after {
+    content: 'CSS made by FuryKA10#1432';
+    position: fixed;
+    display: block;
+    top: 200px;
+    color: #000896
 }
