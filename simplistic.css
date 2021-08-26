@@ -32,6 +32,8 @@ and yeah i guess that is about it. Do not sell it, no plagiarism, or anything :)
     display: none !important
 }
 
+/* thank u envy check out https://envykrunk.github.io/removal/removal.css for removing certain stuff */
+
 #ammoIcon,
 #challIcon,
 #customizeButton .material-icons,
@@ -98,25 +100,7 @@ and yeah i guess that is about it. Do not sell it, no plagiarism, or anything :)
 }
 
 #chatInputHolder, #chatInput {
-    height: 0;
-    padding: 0;
-    opacity: 0;
     text-align: center   
-}
-
-#chatInputHolder:focus-within {
-   height: 50px;
-   opacity: 1;
-   padding: 6px;
-   width: 100%;
-   padding-right: 27px;
-   padding-top: 1px;
-   padding-bottom: 50px
-}
-
-#chatInput:focus {
-    opacity: 1;
-    height: 50px    
 }
 
 #uiBase.onMenu #chatHolder {
