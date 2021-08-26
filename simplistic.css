@@ -3,6 +3,8 @@
 Ask me before importing the url for it (if it becomes that successful ofc lul) 
 and yeah i guess that is about it. Do not sell it, no plagiarism, or anything :).*/ 
 
+@import url(https://envykrunk.github.io/removal/removal.css);
+
 :root {
     --accent: #eb5656;
     --accent2: #9eeb56;
@@ -10,29 +12,20 @@ and yeah i guess that is about it. Do not sell it, no plagiarism, or anything :)
 
 /* stuff */
 
-#aMerger,
-#newsHolder,
-.imageButton,
-#editorBtnM,
 .verticalSeparator,
 .youNewDiv,
 #streamContainer,
 #mainLogo,
 #seasonLabel,
-#aHolder,
-#onetrust-consent-sdk,
-.krSocial,
-#voiceDisplay,
-.button.small.buttonO img,
 #menuMiniProfilePic,
 #loadEditrBtn,
-#bubbleContainer,
 .rankClck,
 #endInfo {
     display: none !important
 }
 
-/* thank u envy check out https://envykrunk.github.io/removal/removal.css for removing certain stuff */
+/* thank u envy check out https://envykrunk.github.io/removal/removal.css 
+for removing certain stuff */
 
 #ammoIcon,
 #challIcon,
